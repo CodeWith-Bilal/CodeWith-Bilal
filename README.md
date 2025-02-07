@@ -24,7 +24,7 @@
 
 - 💬 Ask me about **Frontend && Backend Development**
 
-- 📫 How to reach me **mb03086350364@gmail.com**
+- 📫 How to reach me **codes.tech4@gmail.com**
 
 - 📄 Know about my experiences <a href="https://drive.google.com/file/d/1huwxMILy8THlWvAuLR92LHPqPz3MEboZ/view">Resume</a>
 
