@@ -45,7 +45,7 @@
 <h1> 🔥 My Stats 🔥 </h1>
 <img width="130" src="https://komarev.com/ghpvc/?username=codewithmian&label=Profile%20views&color=0e75b6&style=flat" alt="codewithmian" />
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=codewithmian&theme=transparent&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codewithmian&layout=compact&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
