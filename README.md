@@ -2,7 +2,7 @@
 <h1 align="center">    
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Muhammad+Bilal!;" />
 </h1>                     
-<h3 align="center">Full Stack Developer & A Real-time Project Developer</h3>   
+<h3 align="center">Full Stack Web && Mobile Application Developer</h3>   
 
 <p align="left"> <img width="130" src="https://komarev.com/ghpvc/?username=codewithmian&label=Profile%20views&color=0e75b6&style=flat" alt="codewithmian" /> </p>
 
@@ -20,7 +20,7 @@
 
 - 👯 I’m looking to collaborate on **Development Related Projects**
 
-- 👨‍💻 All of my projects are available at <a href="https://portfolio-gamma-orpin-52.vercel.app/" >Portfolio</a>
+- 👨‍💻 All of my projects are available at <a href="https://codewith-bilal.vercel.app/" >Portfolio</a>
 
 - 💬 Ask me about **Frontend && Backend Development**
 
@@ -43,10 +43,23 @@
 </div>
 <div align="center">
 <h1> 🔥 My Stats 🔥 </h1>
-<img width="130" src="https://komarev.com/ghpvc/?username=codewithmian&label=Profile%20views&color=0e75b6&style=flat" alt="codewithmian" />
+  <div style="display: flex; justify-content: space-between;">
+  <p><img width="440px" src="https://github-readme-stats.vercel.app/api?username=codewith-bilal&show_icons=true&theme=onedark" alt="GitHub Stats" /></p>
+  <p><img width="385px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewith-bilal&layout=compact&theme=onedark" alt="Top Languages" /></p>
+</div>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codewithmian&layout=compact&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+<div style="text-align="center">
+    <h1>🔥 Github Streak 🔥</h1>
+    <img width="385px" src="https://github-readme-streak-stats.herokuapp.com/?user=codewith-bilal&theme=onedark" />
+</div>
+<div>
+    <h1>🔥 LeetCode 🔥</h1>
+    <img style="width: 50%;" src="https://leetcard.jacoblin.cool/bilal_133?theme=dark&font=Nunito&ext=heatmap" alt="LeetCode Card" />
+    
+<!-- <div style="text-align="center">
+    <h1>Contribution Graph</h1>
+    <img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=codewith-bilal&theme=github">
+</div> -->
 
 </div>
