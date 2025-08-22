@@ -1,4 +1,5 @@
 <img src="https://i.pinimg.com/originals/b2/83/11/b2831136a1912c98b1cad1b4eb9ab112.gif" height="350" width="1080" frameborder="0" scrolling="no" >
+
 <h1 align="center">    
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Muhammad+Bilal!;" />
 </h1>                     
@@ -61,5 +62,15 @@
     <h1>Contribution Graph</h1>
     <img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=codewith-bilal&theme=github">
 </div> -->
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/codewith-bilal/codewith-bilal/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/codewith-bilal/codewith-bilal/output/github-contribution-grid-snake.svg" />
+    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/codewith-bilal/codewith-bilal/output/github-contribution-grid-snake.svg" />
+  </picture>
+  <br/><br/><br/>
+</div>
 
 </div>
