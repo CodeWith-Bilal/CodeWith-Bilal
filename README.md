@@ -52,7 +52,7 @@
 
 <div style="text-align="center">
     <h1>🔥 Github Streak 🔥</h1>
-    <img width="385px" src="https://github-readme-streak-stats.herokuapp.com/?user=codewith-bilal&theme=onedark" />
+    <img width="385px" src="https://github-readme-streak-stats.herokuapp.com?user=codewith-bilal&theme=dark" />
 </div>
 <div>
     <h1>🔥 LeetCode 🔥</h1>
