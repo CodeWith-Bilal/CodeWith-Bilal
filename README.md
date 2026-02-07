@@ -53,7 +53,8 @@
 <div style="text-align="center">
     <h1>🔥 Github Streak 🔥</h1>
     <img width="385px" src="https://github-readme-streak-stats.herokuapp.com?user=codewith-bilal&theme=dark" />
-    [![GitHub Streak](https://streak-stats.demolab.com/?user=codewith-bilal)](https://git.io/streak-stats)
+   <!-- (https://streak-stats.demolab.com/?user=codewith-bilal)](https://git.io/streak-stats) -->
+    
 </div>
 <div>
     <h1>🔥 LeetCode 🔥</h1>
