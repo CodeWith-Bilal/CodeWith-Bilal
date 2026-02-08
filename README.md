@@ -46,6 +46,7 @@
 <h1> 🔥 My Stats 🔥 </h1>
   <div style="display: flex; justify-content: space-between;">
   <p><img width="440px" src="https://github-readme-stats.vercel.app/api?username=codewith-bilal&show_icons=true&theme=onedark" alt="GitHub Stats" /></p>
+      (https://github-readme-stats.vercel.app/api?username=anuraghazra)(https://github.com/anuraghazra/github-readme-stats)
   <p><img width="385px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewith-bilal&layout=compact&theme=onedark" alt="Top Languages" /></p>
 </div>
 
