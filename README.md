@@ -1,5 +1,5 @@
-<img src="https://i.pinimg.com/originals/b2/83/11/b2831136a1912c98b1cad1b4eb9ab112.gif" height="350" width="1080" frameborder="0" scrolling="no" >
-
+<img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" height="450" width="1080" frameborder="0" scrolling="no" >
+<!-- https://i.pinimg.com/originals/b2/83/11/b2831136a1912c98b1cad1b4eb9ab112.gif -->
 <h1 align="center">    
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Muhammad+Bilal!;" />
 </h1>                     
